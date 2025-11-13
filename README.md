@@ -1,4 +1,5 @@
-#NCE/SCI/311/23 IMRAN MPOOLA SELEMANI 
+#NCE/SCI/311/23 IMRAN MPOOLA SELEMANI
+
 // the program calculate the average of four numbers
 import java.util.Scanner; // bringing in scanner class to allow user input
 
